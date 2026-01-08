@@ -1,0 +1,6 @@
+similar for all just chnage file name
+
+cd "C:\Python AI Internship 26\ai cookbook"
+venv\Scripts\activate
+cd patterns\workflows\1-introduction
+python 1-basic.py
