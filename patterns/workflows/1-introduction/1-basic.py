@@ -14,12 +14,12 @@ url = "https://openrouter.ai/api/v1/chat/completions"
 headers = {
     "Authorization": f"Bearer {API_KEY}",
     "Content-Type": "application/json",
-    "HTTP-Referer": "http://localhost",     # REQUIRED for free key
-    "X-Title": "AI Cookbook Project"        # REQUIRED
+    "HTTP-Referer": "http://localhost",     
+    "X-Title": "AI Cookbook Project"        
 }
 
 payload = {
-    "model": "meta-llama/llama-3-8b-instruct",  # ✅ FREE MODEL
+    "model": "meta-llama/llama-3-8b-instruct",  
     "messages": [
         {"role": "system", "content": "You're a helpful assistant."},
         {"role": "user", "content": "Write a limerick about the Python programming language."}
