@@ -16,8 +16,6 @@
 - pip package manager
 - OpenAI API key (or other LLM provider)
 
-## Setup
-
 ## Clone the repository
 
 - git clone https://github.com/makwana8399/ai-cookbook.git
