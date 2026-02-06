@@ -66,21 +66,21 @@ Workflow Examples
 
 - Create a .env file with the following variables:
 
-OPENAI_API_KEY=your_api_key_here
-ANTHROPIC_API_KEY=your_key_optional
-GROQ_API_KEY=your_key_optional
-DATABASE_URL=your_database_url_optional
-VECTOR_DB_PATH=./data/embeddings
+- OPENAI_API_KEY=your_api_key_here
+- ANTHROPIC_API_KEY=your_key_optional
+- GROQ_API_KEY=your_key_optional
+- DATABASE_URL=your_database_url_optional
+- VECTOR_DB_PATH=./data/embeddings
 
 ## Dependencies
 
 Key Python packages include:
 
-openai/anthropic - LLM API clients
-langchain/llama-index - Framework integrations
-pydantic - Data validation
-chromadb/faiss-Vector databases
-python-dotenv-Environment management
+- openai/anthropic - LLM API clients
+- langchain/llama-index - Framework integrations
+- pydantic - Data validation
+- chromadb/faiss-Vector databases
+- python-dotenv-Environment management
 
 ### Usage Examples :
 
