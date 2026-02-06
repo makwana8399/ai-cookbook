@@ -6,23 +6,7 @@ AI Cookbook is a comprehensive collection of Python workflows and patterns for b
 
 ## Repository Structure
 
-patterns/workflows/
-├── 📁 basic-workflows/        # Foundational workflow examples
-│   ├── 1-basic.py            # Basic AI workflow implementation
-│   ├── 2-structured.py       # Structured data processing workflows
-│   ├── 3-tools.py           # Tool/function calling workflows
-│   ├── 4-retrieval.py       # Retrieval-augmented generation (RAG)
-│   ├── .env                 # Environment variables template
-│   └── all-files-cmds.txt   # Setup and execution commands
-├── 📁 advanced-workflows/    # Sophisticated workflow patterns
-│   ├── 1-prompt-chaining.py # Multi-step prompt orchestration
-│   ├── 2-routing.py         # Dynamic workflow routing
-│   ├── 3-parallizaton.py    # Parallel execution patterns
-│   ├── 4-orchestrator.py    # Workflow orchestration framework
-│   └── .env                 # Configuration
-├── 📄 README.md              # This file
-├── 📄 kb.json               # Knowledge base/data file
-└── 📄 requirements.txt      # Python dependencies
+<img width="963" height="528" alt="image" src="https://github.com/user-attachments/assets/83cc70f7-196e-47ed-a470-56779d6fe8bc" />
 
 # Installation
 
