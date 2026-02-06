@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Cookbook is a comprehensive collection of Python workflows and patterns for building intelligent applications using modern AI/ML techniques. This repository provides production-ready examples, utilities, and architectural patterns for AI-powered systems.
+~ AI Cookbook is a comprehensive collection of Python workflows and patterns for building intelligent applications using modern AI/ML techniques. This repository provides production-ready examples, utilities, and architectural patterns for AI-powered systems.
 
 ## Repository Structure
 
@@ -12,37 +12,40 @@ AI Cookbook is a comprehensive collection of Python workflows and patterns for b
 
 ## Prerequisites
 
-Python 3.8+
-pip package manager
-OpenAI API key (or other LLM provider)
+- Python 3.8+
+- pip package manager
+- OpenAI API key (or other LLM provider)
 
 ## Setup
 
 ## Clone the repository
-git clone https://github.com/makwana8399/ai-cookbook.git
-cd ai-cookbook/patterns/workflows
+
+- git clone https://github.com/makwana8399/ai-cookbook.git
+- cd ai-cookbook/patterns/workflows
 
 ## Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+- python -m venv venv
+- source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ## Install dependencies
-pip install -r requirements.txt
+
+- pip install -r requirements.txt
 
 ## Configure environment variables
+
 cp .env.example .env
 
-# Edit .env with your API keys and configuration
-Quick Start
-Basic Workflow
-python
+## Edit .env with your API keys and configuration
+
+- Quick Start
+- Basic Workflow
+- python
 
 ## Run a basic workflow example
 python basic-workflows/1-basic.py
 Advanced Orchestration
 python
-
-
 
 ## Execute parallel workflow patterns
 python advanced-workflows/3-parallizaton.py
