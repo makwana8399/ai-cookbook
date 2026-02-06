@@ -32,7 +32,7 @@
 
 ## Configure environment variables
 
-cp .env.example .env
+- cp .env.example .env
 
 ## Edit .env with your API keys and configuration
 
